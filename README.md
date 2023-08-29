@@ -1,2 +1,2 @@
-# heello-world
+# hello-world
 GitHub Hello World tutorial
